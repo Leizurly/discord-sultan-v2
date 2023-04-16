@@ -1,8 +1,6 @@
 {
   "name": "Sultan OLD",
   "version": "2.0",
-  "description": "Vibrant Crimson Meets OLED Black",
-  "color": "#BB000E",
   "authors": [
     {
       "name": "Lei",
@@ -67,7 +65,7 @@
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#ffffff",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
@@ -75,7 +73,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffffff",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
