@@ -28,13 +28,13 @@
             "#BB000E"
         ],
         "INTERACTIVE_HOVER": [
-            "#503E38"
+            "#8B000D"
         ],
         "INTERACTIVE_ACTIVE": [
             "#BB000E"
         ],
         "INTERACTIVE_MUTED": [
-            "#957261"
+            "#8B000D"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -49,7 +49,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#503E38"
+            "#1C1C1C"
         ],
         "BACKGROUND_FLOATING": [
             "#0A0A0A"
@@ -64,19 +64,19 @@
             "#0A0A0A"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
+            "#1C1C1C"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#322720"
+            "#1C1C1C"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3a2c26"
+            "#1C1C1C"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#372d2b"
+            "#1C1C1C"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "503E38"
+            "1C1C1C"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
@@ -85,13 +85,13 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#DAC0B3"
+            "#BB000E"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#DAC0B3"
+            "#0A0A0A"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
+            "#1C1C1C"
         ],
         "CHANNELS_DEFAULT": [
             "#BB000E"
@@ -100,7 +100,7 @@
             "#BB000E"
         ],
         "TEXT_DANGER": [
-            "#503E38"
+            "#8B000D"
         ],
         "KEYBOARD": [
             "#000000"
@@ -118,22 +118,22 @@
         "PRIMARY_200": "#F4EAE5",
         "PRIMARY_300": "#BB000E",
         "PRIMARY_360": "#BB000E",
-        "PRIMARY_400": "#BB000E",
+        "PRIMARY_400": "#BB000E
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#1B1411",
         "PRIMARY_660": "#1B1411",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "BRAND_260": "#957261",
-        "BRAND_360": "#D0A996",
-        "BRAND_500": "#957261",
-        "BRAND_560": "#D0A996",
-        "YELLOW_300": "#957261",
+        "BRAND_260": "#8B000D",
+        "BRAND_360": "#BB000E",
+        "BRAND_500": "#8B000D",
+        "BRAND_560": "#BB000E",
+        "YELLOW_300": "#8B000D",
         "GREEN_600": "#EFDFD7",
-        "DANGER": "#625682",
+        "DANGER": "#8B000D",
         "RED_400": "#BB000E",
         "WHITE_500": "#EFDFD7",
-        "GREEN_360": "#503E38"
-        },
-  "spec": 2
+        "GREEN_360": "#1C1C1C"
+    },
+    "spec": 2
 }
