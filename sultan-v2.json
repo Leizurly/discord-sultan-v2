@@ -108,7 +108,7 @@
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent",
-      "FFFFFF"
+      "#FFFFFF"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#000000",
@@ -120,7 +120,7 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "transparent",
-      "FFFFFF"
+      "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
       "#BB000E",
